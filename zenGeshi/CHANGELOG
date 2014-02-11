@@ -1,0 +1,16 @@
+*** 1.0.1 **
+(2011.11.18)
+PHP: Correct a little bug to display geshi version.
+PHP: Improve the display zengeshi version
+
+*** 1.0 ***
+(2011.07.12)
+PHP: Transformate to class zengeshi.
+
+*** 0.2 ***
+(2011.04.18)
+
+*** 0.1 ***
+(2011.04.03)
+
+First version with Geshi 1.0.8.10
